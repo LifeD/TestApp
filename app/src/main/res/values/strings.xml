@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="next">Next</string>
+    <string name="no_data">No data</string>
+    <string name="open_menu_and_click_download">Open menu and click Download</string>
+    <string name="download">Download</string>
+    <string name="city">City:</string>
+    <string name="time">Time:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="temperature_placeholder" translatable="false">%d°C</string>
+    <string name="failed_to_load_data">Failed to load data</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="next">Вперед</string>
+    <string name="no_data">Нет данных</string>
+    <string name="open_menu_and_click_download">Откройте меню и нажмите \"Загрузить\"</string>
+    <string name="download">Загрузить</string>
+    <string name="city">Город:</string>
+    <string name="time">Время:</string>
+    <string name="temperature">Температура:</string>
+    <string name="failed_to_load_data">Не удалось загрузить данные</string>
+</resources>

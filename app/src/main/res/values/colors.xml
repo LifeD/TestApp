@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7347E4</color>
+    <color name="colorPrimaryDark">#673ab7</color>
+    <color name="colorAccent">#86209A</color>
+
+    <color name="colorGreetingGradientStart">#7249E7</color>
+    <color name="colorGreetingGradientEnd">#871F97</color>
+    <color name="colorGreetingPanel">#FAFAFA</color>
+    <color name="colorGreetingButton">#86209A</color>
+</resources>
